@@ -2,11 +2,11 @@
 
 > Métodos Avançados de Programação (UEPB, 2026.2) · Autor: Pedro Santos · Java 17+
 
-Enunciado: [`enunciado.pdf`](enunciado.pdf) · Respostas discursivas: [`RESPOSTAS.md`](RESPOSTAS.md)
+Enunciado da atividade: [`enunciado.pdf`](enunciado.pdf) · Respostas discursivas: [`RESPOSTAS.md`](RESPOSTAS.md)
 
 ## O problema
 
-A classe `Pedido` original decidia o valor do frete com uma cadeia de `if/else` comparando uma `String` (`"SEDEX"`, `"PAC"`...). Isso fazia o `Pedido` conhecer todas as tabelas de frete da loja. A cada modalidade nova era preciso reabrir e modificar essa classe, e um erro de digitação no nome do frete só aparecia em tempo de execução.
+A classe `Pedido` original decidia o valor do frete com uma cadeia de `if/else` comparando uma `String` (`"SEDEX"`, `"PAC"`...). Isso fazia o `Pedido` conhecer todas as tabelas de frete da loja. A cada modalidade nova era preciso reabrir e modificar essa classe, e um erro de digitação no nome do frete só aparecia em tempo de execução, além disso a complexidade do código é aumentada, por está em um estrutura de `if/else` , sendo prejudicial para a manutenção.
 
 ## A solução
 
@@ -109,3 +109,20 @@ Total do PED-002 com a última estratégia: R$ 350,00
 ```
 
 As respostas das questões discursivas estão em [`RESPOSTAS.md`](RESPOSTAS.md).
+
+## Referências
+
+|                                                                            |                                                                                                          |                                                                                                  |                                                              |                                                            |
+| :-------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------------------: |
+|                                                                            |                                                                                                          |                                                                                                  |                                                              |                                                            |
+| [Padrões de Projeto](https://loja.grupoa.com.br/padroes-de-projeto-p989759) | [Use a Cabeça! Padrões de Projetos](https://altabooks.com.br/produto/use-a-cabeca-padroes-de-projetos/) | [Utilizando UML e Padrões](https://loja.grupoa.com.br/utilizando-uml-e-padroes-3ed-ebook-p988162) | [Java Efetivo](https://altabooks.com.br/produto/java-efetivo/) | [Refatoração](https://novatec.com.br/livros/refatoracao/) |
+|               Gamma, Helm, Johnson e Vlissides. Bookman, 2000               |                                  Freeman e Freeman. Alta Books, 2ª ed.                                  |                                     Larman. Bookman, 3ª ed.                                     |               Bloch. Alta Books, 3ª ed., 2019               |                  Fowler. Novatec, 2ª ed.                  |
+
+**Referências online (sem capa):**
+
+- [Strategy (Refactoring.Guru)](https://refactoring.guru/pt-br/design-patterns/strategy)
+- [Decorator (Refactoring.Guru)](https://refactoring.guru/pt-br/design-patterns/decorator)
+- [Substituir Condicional por Polimorfismo](https://refactoring.guru/pt-br/replace-conditional-with-polymorphism)
+- [The Open-Closed Principle, Robert C. Martin (1996)](https://www.cs.utexas.edu/~downing/papers/OCP-1996.pdf)
+- [JEP 395: Records](https://openjdk.org/jeps/395)
+- [Pro Git, em português](https://git-scm.com/book/pt-br/v2)
