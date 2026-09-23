@@ -10,7 +10,7 @@ A classe `Pedido` original decidia o valor do frete com uma cadeia de `if/else` 
 
 ## A solução
 
-Cada fórmula virou uma classe que implementa a interface `EstrategiaDeFrete`. O `Pedido` guarda uma referência para essa interface e **delega** a ela o cálculo, sem saber qual modalidade está usando.
+Cada fórmula virou uma classe que implementa a interface `EstrategiaDeFrete`. O `Pedido` guarda uma referência para essa interface e delega a ela o cálculo, sem saber qual modalidade está usando.
 
 | Papel no Strategy      | Classe                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------ |
