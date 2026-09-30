@@ -1,0 +1,16 @@
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\app\Main.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\app\Verificacao.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\EstrategiaDeFrete.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\FreteInternacional.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\internacional\FreteInternacionalPorPais.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\internacional\FreteMercosul.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\internacional\TabelaTarifasInternacionais.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\internacional\TarifaPais.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\PAC.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\RetiradaNaLoja.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\Sedex.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\estrategia\TransportadoraExpressa.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\pedido\Pedido.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\promocao\CupomDeFrete.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\promocao\FreteComPromocao.java
+C:\Users\Pedro\Downloads\ex02-strategy-frete\ex02-strategy-frete\metodos-avancados-programacao\ex02-strategy-frete\src\br\uepb\map\frete\promocao\FreteGratisAPartirDe.java

@@ -1,0 +1,16 @@
+br\uepb\map\frete\app\Main.class
+br\uepb\map\frete\pedido\Pedido.class
+br\uepb\map\frete\estrategia\Sedex.class
+br\uepb\map\frete\estrategia\internacional\TabelaTarifasInternacionais.class
+br\uepb\map\frete\estrategia\RetiradaNaLoja.class
+br\uepb\map\frete\promocao\FreteComPromocao.class
+br\uepb\map\frete\estrategia\FreteInternacional.class
+br\uepb\map\frete\estrategia\internacional\FreteInternacionalPorPais.class
+br\uepb\map\frete\estrategia\TransportadoraExpressa.class
+br\uepb\map\frete\promocao\FreteGratisAPartirDe.class
+br\uepb\map\frete\estrategia\internacional\TarifaPais.class
+br\uepb\map\frete\promocao\CupomDeFrete.class
+br\uepb\map\frete\estrategia\EstrategiaDeFrete.class
+br\uepb\map\frete\estrategia\internacional\FreteMercosul.class
+br\uepb\map\frete\app\Verificacao.class
+br\uepb\map\frete\estrategia\PAC.class
